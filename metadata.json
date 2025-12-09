@@ -1,0 +1,7 @@
+{
+  "name": "SchoolAdmin Pro",
+  "description": "A comprehensive, single-admin school management system powered by React, Tailwind, and Supabase. Features student/teacher management, class organization, and AI-assisted reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
